@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Rover dataset</folder>
+	<filename>IMG20230812120336.jpg</filename>
+	<path>C:\Users\Farhan\OneDrive\Pictures\Path Obstacle\Rover dataset\IMG20230812120336.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Obstacle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>844</ymin>
+			<xmax>1510</xmax>
+			<ymax>2919</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Obstacle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2360</xmin>
+			<ymin>264</ymin>
+			<xmax>3456</xmax>
+			<ymax>2864</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Path</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>2934</ymin>
+			<xmax>3110</xmax>
+			<ymax>4584</ymax>
+		</bndbox>
+	</object>
+</annotation>
